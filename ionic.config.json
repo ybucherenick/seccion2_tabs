@@ -1,6 +1,6 @@
 {
   "name": "seccion2_tabs",
-  "app_id": "",
+  "app_id": "2c53bd8a",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
